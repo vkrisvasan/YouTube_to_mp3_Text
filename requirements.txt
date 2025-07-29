@@ -1,6 +1,2 @@
-algoliasearch>=4.0,<5.0
-fastapi
-uvicorn
-faker
 python-dotenv
 groq
